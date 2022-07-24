@@ -1,2 +1,5 @@
-# nestjs-postgresql-typeorm-docker
-Nest.js + Postgresql + Typeorm + Docker
+# Nest.js + Postgresql + Typeorm + Docker
+
+## Description
+REST-API with Nest.js + Postgresql + Typeorm + Docker
+
